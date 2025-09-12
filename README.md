@@ -29,4 +29,4 @@ I’m open to opportunities to apply my technical knowledge, curiosity, and abil
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)  
 
 #### Tools & Platforms  
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,eclipse,net,firebase,notion&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,eclipse,net,firebase,notion)](https://skillicons.dev)  
