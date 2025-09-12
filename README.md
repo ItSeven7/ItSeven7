@@ -1,4 +1,4 @@
-# Hi there, I'm Ari Josué 👋
+## Hi there, I'm Ari Josué 👋
 
 I am a **Computer Science student** passionate about **Software Development** with interests ranging from **Computer Graphics** to **Cybersecurity**.   
 I adapt quickly to new challenges and enjoy learning through small projects.    
