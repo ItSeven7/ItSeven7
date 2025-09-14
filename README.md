@@ -17,13 +17,13 @@ I’m open to opportunities to apply my technical knowledge, curiosity, and abil
 ## 🚀 Technologies & Tools  
 
 #### Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,js,py)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py)](https://skillicons.dev)  
 
 #### Mobile Development  
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)  
 
 #### Web Development  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)  
 
 #### Currently Learning  
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)  
