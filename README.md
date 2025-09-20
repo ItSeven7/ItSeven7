@@ -19,9 +19,6 @@ I’m open to opportunities to apply my technical knowledge, curiosity, and abil
 #### Programming Languages  
 [![My Skills](https://skillicons.dev/icons?i=java,cs,py)](https://skillicons.dev)  
 
-#### Mobile Development  
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)  
-
 #### Web Development  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)  
 
@@ -29,4 +26,4 @@ I’m open to opportunities to apply my technical knowledge, curiosity, and abil
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)  
 
 #### Tools & Platforms  
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,eclipse,net,firebase,notion)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,flutter,net,firebase,notion)](https://skillicons.dev)  
